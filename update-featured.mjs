@@ -16,7 +16,7 @@ const client = new BetaAnalyticsDataClient();
 
 const [report] = await client.runReport({
   property: `properties/${PROPERTY_ID}`,
-  dateRanges: [{ startDate: '2015-01-01', endDate: 'today' }],
+  dateRanges: [{ startDate: '2015-08-14', endDate: 'today' }],
   dimensions: [{ name: 'pagePath' }],
   metrics: [{ name: 'screenPageViews' }],
   dimensionFilter: {
