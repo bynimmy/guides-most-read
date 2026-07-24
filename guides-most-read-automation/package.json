@@ -1,0 +1,13 @@
+{
+  "name": "guides-most-read-automation",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Daily job: pick the most-read Photography by Nimmy guide from GA4 and write featured.json",
+  "scripts": {
+    "start": "node update-featured.mjs"
+  },
+  "dependencies": {
+    "@google-analytics/data": "^4.7.0"
+  }
+}
