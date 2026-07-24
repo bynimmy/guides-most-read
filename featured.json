@@ -1,9 +1,9 @@
 {
-  "featured": "weddings",
+  "featured": "/the-ultimate-wedding-guide",
   "counts": {
-    "families": 21,
-    "headshots": 44,
-    "weddings": 76
+    "/lifestyle-family-portraits-guide-what-to-wear": 21,
+    "/the-corporate-headshot-field-guide-what-to-wear-how-to-prepare": 44,
+    "/the-ultimate-wedding-guide": 76
   },
-  "updated": "2026-07-24T02:28:36.435Z"
+  "updated": "2026-07-24T02:30:15.305Z"
 }
