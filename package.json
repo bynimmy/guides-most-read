@@ -5,6 +5,7 @@
   "type": "module",
   "scripts": { "start": "node update-featured.mjs" },
   "dependencies": {
-    "@google-analytics/data": "^4.7.0"
+    "@google-analytics/data": "^4.7.0",
+    "node-html-parser": "^6.1.13"
   }
 }
